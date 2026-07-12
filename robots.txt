@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://rzqesdfritugy.github.io/test/sitemap.xml
